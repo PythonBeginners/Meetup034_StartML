@@ -12,13 +12,13 @@
 - 05 物体認識の評価
 
 ### 補足
-01〜02はPythonBeginners沖縄 #28
-03〜05はPythonBeginners沖縄 #29
+
+- 01〜02はPythonBeginners沖縄 #28
+- 03〜05はPythonBeginners沖縄 #29
 それぞれの改良版です
 
-
-PythonBeginners沖縄#29 Data保存場所
-https://drive.google.com/drive/folders/1wvSv-CxyrMQ1vbewMrQgzg6TJl2aYxh9?usp=sharing
+- 04〜05 はスクレイピング済み＆アノテーション済みの以下のデータを使用下さい
+[PythonBeginners沖縄#29 Data保存場所](https://drive.google.com/drive/folders/1wvSv-CxyrMQ1vbewMrQgzg6TJl2aYxh9?usp=sharing)
 
 
 <br>
